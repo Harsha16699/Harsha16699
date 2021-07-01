@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kona Sai Harshavardhan Reddy
 - 👀 I’m interested in Building Things
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Data Structures and Algorrithms
 - 📫 You can reach me at kshvr16@gmail.com
 
 <!---
